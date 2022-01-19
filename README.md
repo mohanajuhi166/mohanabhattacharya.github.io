@@ -50,7 +50,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <br>
 
-## Let's Connect :handshake:
+## Let's Connect 🚴
 
 <a href="https://www.linkedin.com/in/mohana-bhattacharya-1605/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
 
